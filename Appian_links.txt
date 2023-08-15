@@ -1,0 +1,79 @@
+https://docs.appian.com/suite/
+help/latest/Glossary.html 
+
+A list of terms and their definitions used across the
+Appian platform.
+
+https://docs.appian.com/suite/
+help/latest/design-objects.html 
+
+A list and description of the different objects that can
+make up any Appian application. 
+
+https://docs.appian.com/suite/
+help/latest/Appian_Functions.
+html
+
+A searchable listing of all Appian functions, their
+purpose, an explanation of their parameters, and
+examples of how they work.
+
+https://docs.appian.com/suite/
+help/latest/ux_getting_started.
+html
+
+A collection of best practices and recommendations
+for creating attractive and usable interfaces. Be sure to
+also check out the online course: “UX Design and
+Appian.”
+
+
+https://docs.Appian.com/suite/
+help/latest/Appian_Data_Type
+s.html
+
+The data (process variables, node inputs, node
+outputs, rule inputs, data store entities, or constants)
+used in Appian must conform to certain data types.
+This article explains them.
+
+https://docs.appian.com/suite/
+help/latest/Function_Recipes.
+html
+
+Similar to a cookbook, it shows the individual
+ingredients that go into creating an expression using
+Appian functions, the order in which to combine them,
+and tips on when to use them or modify for
+preference.
+
+ https://docs.appian.com/suite/
+help/latest/Query_Recipes.ht
+ml
+
+References pre-existing variables that define
+information about each process model (e.g. pm!version).
+Used in Process Models.
+
+https://docs.appian.com/suite/
+help/latest/SAIL_Components.
+html
+
+All the components and supporting configurations for
+building interfaces.
+
+https://docs.appian.com/suite/
+help/latest/SAIL_Recipes.html
+
+A combination of components and dynamic
+expressions to achieve common user-interface
+designs. Complexity ranges from beginner to
+advanced.
+
+https://docs.appian.com/suite/
+help/latest/Smart_Services.ht
+ml
+
+A description of all the nodes and smart services that
+can be used to defined a process workflow in Appian’s
+process modeler.
